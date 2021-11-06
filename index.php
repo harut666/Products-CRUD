@@ -38,7 +38,7 @@ $products = $statement->fetchAll(PDO::FETCH_ASSOC);
         <th scope="col">Title</th>
         <th scope="col">Price</th>
         <th scope="col">Create Date</th>
-        <th scope="col">Action </th>
+        <th scope="col">Action tttttt</th>
     </tr>
     </thead>
     <tbody>
